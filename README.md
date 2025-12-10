@@ -1,6 +1,6 @@
 # Netball Performance Dashboard (R Shiny)
 
-**Author:** Ibrahim Nasaruddin (current Master of Sport Analytics Student, 2025)
+**Author:** Ibrahim Nasaruddin (Master of Sport Analytics Student, 2025-26)
 **Role:** Part-Time Performance Analyst, HPSI Singapore
 
 ## Overview
