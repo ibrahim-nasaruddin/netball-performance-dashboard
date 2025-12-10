@@ -535,9 +535,8 @@ server <- function(input, output, session) {
     },
     content = function(file) {
       # This reads the internal dummy data and gives it to the user
-      write.csv(read.csv("data/test.csv"), file, row.names = FALSE)
+    write.csv(read.csv("data/mock_netball_data.csv"), file, row.names = FALSE)
     })
-  
 }
 
 # Run the Application
