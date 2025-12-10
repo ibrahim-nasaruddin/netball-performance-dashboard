@@ -3,6 +3,10 @@
 **Author:** Ibrahim Nasaruddin (Master of Sport Analytics Student, 2025-26)
 **Role:** Part-Time Performance Analyst, HPSI Singapore
 
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![RStudio](https://img.shields.io/badge/RStudio-4285F4?logo=rstudio&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
 ## Overview
 This is a production-ready R Shiny dashboard designed to automate post-match reporting for Netball. It transforms raw coding data (e.g., from Hudl Sportscode) into interactive visualisations.
 
