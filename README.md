@@ -23,7 +23,7 @@ To see the dashboard in action, you need a dataset that matches the specific Hud
 **⚠️ Important:** If you upload a random CSV, the app will likely crash because it looks for specific column headers (e.g., `Row`, `Quarter`, `Shot Outcome`).
 
 **Please use the sample dataset provided in this repository:**
-1. Download the sample file: [data/mock_netball_data.csv](https://github.com/ibrahim-nasaruddin/netball-performance-dashboard/blob/main/data/test.csv)
+1. Download the sample file: [data/mock_netball_data.csv](https://github.com/ibrahim-nasaruddin/netball-performance-dashboard/blob/main/data/mock_netball_data.csv)
 2. Open the [Live Dashboard](https://8k17oa-ibrahim0bin0nasaruddin.shinyapps.io/Netball-Performance-Dashboard/).
-3. In the "Upload & Config" tab, upload this `test.csv` file.
+3. In the "Upload & Config" tab, upload this `mock_netball_data.csv` file.
 4. Click **Process Data**.
