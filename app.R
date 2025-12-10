@@ -102,8 +102,8 @@ ui <- dashboardPage(
               fluidRow(
                 box(title = "Match Configuration", status = "primary", solidHeader = TRUE, width = 6,
                     fileInput("file1", "Upload Match CSV", accept = ".csv"),
-                    textInput("team_name", "My Team Name", value = "Singapore"),
-                    textInput("opp_name", "Opponent Name", value = "Malaysia"),
+                    textInput("team_name", "My Team Name", value = "Insert Team Name Here"),
+                    textInput("opp_name", "Opponent Name", value = "Insert Opponent Name Here"),
                     dateInput("match_date", "Match Date", value = Sys.Date()),
                     actionButton("process_btn", "Process Data", class = "btn-success")
                 ),
@@ -111,7 +111,8 @@ ui <- dashboardPage(
                     "1. Upload the CSV export from Hudl Sportscode.",
                     "2. Ensure the CSV has columns: 'Row', 'Quarter', 'Start time', etc.",
                     "3. Click 'Process Data' to generate the visuals."
-                )
+                ),
+                downloadButton("downloadData", "Download Sample CSV", class = "btn-primary")
               )
       ),
       
@@ -527,6 +528,15 @@ server <- function(input, output, session) {
       scale_fill_manual(values=c("SGP Gains"="#57BB8A", "SGP Turnovers"="#E67C73")) +
       theme_minimal() + labs(x="Count", y="", fill="")
   })
+
+  output$downloadData <- downloadHandler(
+    filename = function() {
+      "sample_netball_data.csv"
+    },
+    content = function(file) {
+      # This reads the internal dummy data and gives it to the user
+      write.csv(read.csv("data/test.csv"), file, row.names = FALSE)
+    })
   
 }
 
