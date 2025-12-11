@@ -83,7 +83,7 @@ court_map_gnto <- tribble(
 # ==============================================================================
 ui <- dashboardPage(
   skin = "red",
-  dashboardHeader(title = "Netball Match Report"),
+  dashboardHeader(title = "Netball Match Dashboard"),
   
   dashboardSidebar(
     sidebarMenu(
@@ -96,78 +96,77 @@ ui <- dashboardPage(
   ),
   
   dashboardBody(
-    tabItems(
-      # --- TAB 1: SETUP ---
-      tabItem(tabName = "setup",
-              fluidRow(
-                box(title = "Match Configuration", status = "primary", solidHeader = TRUE, width = 6,
-                    fileInput("file1", "Upload Match CSV", accept = ".csv"),
-                    textInput("team_name", "My Team Name", value = "Insert Team Name Here"),
-                    textInput("opp_name", "Opponent Name", value = "Insert Opponent Name Here"),
-                    dateInput("match_date", "Match Date", value = Sys.Date()),
-                    actionButton("process_btn", "Process Data", class = "btn-success")
-                ),
-                box(title = "Instructions", status = "warning", width = 6,
-                    "1. Upload the CSV export from Hudl Sportscode.",
-                    "2. Ensure the CSV has columns: 'Row', 'Quarter', 'Start time', etc.",
-                    "3. Click 'Process Data' to generate the visuals."
-                ),
-                downloadButton("downloadData", "Download Sample CSV", class = "btn-primary")
+    # --- TAB 1: SETUP ---
+    tabItem(tabName = "setup",
+            fluidRow(
+              box(title = "Match Configuration", status = "primary", solidHeader = TRUE, width = 6,
+                  fileInput("file1", "Upload Match CSV", accept = ".csv"),
+                  textInput("team_name", "My Team Name", value = "Home Team"),
+                  textInput("opp_name", "Opponent Name", value = "Away Team"),
+                  dateInput("match_date", "Match Date", value = Sys.Date()),
+                  actionButton("process_btn", "Process Data", class = "btn-success")
+              ),
+              
+              box(title = "Instructions", status = "warning", width = 6,
+                  "1. Upload the CSV export from Hudl Sportscode.", br(),
+                  "2. Ensure the CSV has columns: 'Row', 'Quarter', 'Start time', etc.", br(),
+                  "3. Click 'Process Data' to generate the visuals.", br(), br(),
+                  downloadButton("downloadData", "Download Sample CSV", class = "btn-primary")
               )
-      ),
-      
-      # --- TAB 2: SUMMARY ---
-      tabItem(tabName = "summary",
-              fluidRow(
-                valueBoxOutput("total_goals_home", width = 6),
-                valueBoxOutput("total_goals_away", width = 6)
-              ),
-              fluidRow(
-                box(title = "Match Score Summary", status = "primary", width = 12,
-                    DTOutput("score_table"))
-              ),
-              fluidRow(
-                box(title = "Match Momentum", status = "primary", width = 12,
-                    plotOutput("momentum_plot", height = "600px"))
-              )
-      ),
-      
-      # --- TAB 3: SHOOTING ---
-      tabItem(tabName = "shooting",
-              fluidRow(
-                box(title = "Team Shooting Summary", width = 12, DTOutput("shooting_summary_table"))
-              ),
-              fluidRow(
-                box(title = "Player Shooting Stats", width = 12, DTOutput("player_shooting_table"))
-              )
-      ),
-      
-      # --- TAB 4: CPA ---
-      tabItem(tabName = "cpa",
-              fluidRow(
-                box(title = "Centre Pass Attack Summary", width = 12, DTOutput("cpa_summary_table"))
-              ),
-              fluidRow(
-                box(title = "CPA Phase Heatmaps", width = 12, plotOutput("cpa_heatmaps", height = "600px"))
-              ),
-              fluidRow(
-                box(title = "Pass Flow Map", width = 8, plotOutput("pass_flow_map", height = "600px")),
-                box(title = "Top Combinations", width = 4, DTOutput("cpa_combo_table"))
-              )
-      ),
-      
-      # --- TAB 5: DEFENSE ---
-      tabItem(tabName = "defense",
-              fluidRow(
-                box(title = "Gains & Turnovers Summary", width = 12, DTOutput("gnto_summary_table"))
-              ),
-              fluidRow(
-                box(title = "Court Heatmap: Gains vs Turnovers", width = 12, plotOutput("gnto_heatmap", height = "500px"))
-              ),
-              fluidRow(
-                box(title = "Reasons Breakdown", width = 12, plotOutput("gnto_reasons_plot", height = "400px"))
-              )
-      )
+            )
+    ),
+    
+    # --- TAB 2: SUMMARY ---
+    tabItem(tabName = "summary",
+            fluidRow(
+              valueBoxOutput("total_goals_home", width = 6),
+              valueBoxOutput("total_goals_away", width = 6)
+            ),
+            fluidRow(
+              box(title = "Match Score Summary", status = "primary", width = 12,
+                  DTOutput("score_table"))
+            ),
+            fluidRow(
+              box(title = "Match Momentum", status = "primary", width = 12,
+                  plotOutput("momentum_plot", height = "600px"))
+            )
+    ),
+    
+    # --- TAB 3: SHOOTING ---
+    tabItem(tabName = "shooting",
+            fluidRow(
+              box(title = "Team Shooting Summary", width = 12, DTOutput("shooting_summary_table"))
+            ),
+            fluidRow(
+              box(title = "Player Shooting Stats", width = 12, DTOutput("player_shooting_table"))
+            )
+    ),
+    
+    # --- TAB 4: CPA ---
+    tabItem(tabName = "cpa",
+            fluidRow(
+              box(title = "Centre Pass Attack Summary", width = 12, DTOutput("cpa_summary_table"))
+            ),
+            fluidRow(
+              box(title = "CPA Phase Heatmaps", width = 12, plotOutput("cpa_heatmaps", height = "600px"))
+            ),
+            fluidRow(
+              box(title = "Pass Flow Map", width = 8, plotOutput("pass_flow_map", height = "600px")),
+              box(title = "Top Combinations", width = 4, DTOutput("cpa_combo_table"))
+            )
+    ),
+    
+    # --- TAB 5: DEFENSE ---
+    tabItem(tabName = "defense",
+            fluidRow(
+              box(title = "Gains & Turnovers Summary", width = 12, DTOutput("gnto_summary_table"))
+            ),
+            fluidRow(
+              box(title = "Court Heatmap: Gains vs Turnovers", width = 12, plotOutput("gnto_heatmap", height = "500px"))
+            ),
+            fluidRow(
+              box(title = "Reasons Breakdown", width = 12, plotOutput("gnto_reasons_plot", height = "400px"))
+            )
     )
   )
 )
@@ -187,12 +186,12 @@ server <- function(input, output, session) {
     # Read Data
     raw_data <- read_csv(input$file1$datapath)
     
-    # 1. CLEAN DATA (Logic from Rmd)
+    # 1. CLEAN DATA
     # Remove empty columns
     clean_data <- raw_data %>%
       select(-one_of(c("Ungrouped", "Notes", "Flags")[sapply(c("Ungrouped", "Notes", "Flags"), function(col) all(is.na(raw_data[[col]])))]))
     
-    # Fix Quarters (Remove duplicate Q1, Q1...)
+    # Fix Quarters
     clean_data <- clean_data %>%
       mutate(Quarter = str_trim(str_remove(Quarter, ",.*")))
     
@@ -218,10 +217,10 @@ server <- function(input, output, session) {
         pivot_wider(names_from = Quarter, values_from = Score)
     }
     
-    sgp <- get_q_scores(df, "SGP Shot", "SGP Goal") %>% mutate(Team = input$team_name)
-    opp <- get_q_scores(df, "OPP Shot", "OPP Goal") %>% mutate(Team = input$opp_name)
+    home_score <- get_q_scores(df, "Home Shot", "Home Goal") %>% mutate(Team = input$team_name)
+    away_score <- get_q_scores(df, "Away Shot", "Away Goal") %>% mutate(Team = input$opp_name)
     
-    bind_rows(sgp, opp) %>%
+    bind_rows(home_score, away_score) %>%
       rowwise() %>%
       mutate(Total = sum(c_across(Q1:Q4), na.rm = TRUE))
   })
@@ -256,7 +255,7 @@ server <- function(input, output, session) {
     goal_events <- df %>%
       filter(str_detect(Row, "Shot") & str_detect(`Shot Outcome`, "Goal")) %>%
       mutate(
-        Scorer = ifelse(str_detect(`Shot Outcome`, "SGP Goal"), "SGP", "OPP"),
+        Scorer = ifelse(str_detect(`Shot Outcome`, "Home Goal"), "Home", "Away"),
         Time = `Start time`
       ) %>%
       select(Quarter, Time, Scorer) %>%
@@ -280,18 +279,18 @@ server <- function(input, output, session) {
     plot_data <- goal_events %>%
       group_by(Quarter) %>%
       mutate(
-        SGP_Points = ifelse(Scorer == "SGP", 1, 0),
-        OPP_Points = ifelse(Scorer == "OPP", 1, 0),
-        Score_SGP = cumsum(SGP_Points),
-        Score_OPP = cumsum(OPP_Points)
+        Home_Points = ifelse(Scorer == "Home", 1, 0),
+        Away_Points = ifelse(Scorer == "Away", 1, 0),
+        Score_Home = cumsum(Home_Points),
+        Score_Away = cumsum(Away_Points)
       ) %>%
       ungroup() %>%
-      pivot_longer(cols = c(Score_SGP, Score_OPP), names_to = "TeamVar", values_to = "Score") %>%
-      mutate(TeamDisplay = ifelse(TeamVar == "Score_SGP", team_n, opp_n))
+      pivot_longer(cols = c(Score_Home, Score_Away), names_to = "TeamVar", values_to = "Score") %>%
+      mutate(TeamDisplay = ifelse(TeamVar == "Score_Home", team_n, opp_n))
     
     # Colors
     line_colors <- setNames(c("#E03C31", "#1D428A"), c(team_n, opp_n))
-    fill_colors <- c("SGP" = "#ffcccc", "OPP" = "#cce5ff")
+    fill_colors <- c("Home" = "#ffcccc", "Away" = "#cce5ff")
     
     # Plotting Loop for 4 Quarters
     q_plots <- lapply(c("Q1", "Q2", "Q3", "Q4"), function(q) {
@@ -318,9 +317,8 @@ server <- function(input, output, session) {
     req(dataset())
     df <- dataset()
     
-    # Calculation Logic (Simplified from Rmd)
     stats <- df %>%
-      filter(Row == "SGP Shot") %>%
+      filter(Row == "Home Shot") %>%
       group_by(Quarter) %>%
       summarise(
         Attempts = n(),
@@ -342,7 +340,7 @@ server <- function(input, output, session) {
     df <- dataset()
     
     stats <- df %>%
-      filter(Row == "SGP Shot") %>%
+      filter(Row == "Home Shot") %>%
       separate_rows(Player, sep = ",\\s*") %>%
       group_by(Player) %>%
       summarise(
@@ -364,7 +362,6 @@ server <- function(input, output, session) {
     req(dataset())
     df <- dataset()
     
-    # Logic for CPA
     calc_cpa <- function(d, r_filter, goal_key) {
       d %>%
         filter(Row == r_filter) %>%
@@ -374,8 +371,8 @@ server <- function(input, output, session) {
         mutate(Conv = ifelse(Poss > 0, round((Goals/Poss)*100, 1), 0))
     }
     
-    cpa <- calc_cpa(df, "SGP CPA", "SGP Goal") %>% mutate(Type = "CPA")
-    dcpa <- calc_cpa(df, "SGP DCPA", "SGP Goal") %>% mutate(Type = "DCPA")
+    cpa <- calc_cpa(df, "Home CPA", "Home Goal") %>% mutate(Type = "CPA")
+    dcpa <- calc_cpa(df, "Home DCPA", "Home Goal") %>% mutate(Type = "DCPA")
     
     res <- bind_rows(cpa, dcpa) %>% select(Type, Quarter, Poss, Goals, Conv)
     
@@ -393,7 +390,7 @@ server <- function(input, output, session) {
       col_name <- names(d)[str_detect(names(d), regex(pass_ptrn, ignore_case=T))][1]
       if(is.na(col_name)) return(map_df %>% mutate(Count=0))
       
-      d %>% filter(Row == "SGP CPA") %>%
+      d %>% filter(Row == "Home CPA") %>%
         separate_rows(!!sym(col_name), sep=",\\s*") %>%
         mutate(Location = str_trim(!!sym(col_name))) %>%
         group_by(Location) %>% summarise(Count=n()) %>%
@@ -427,7 +424,7 @@ server <- function(input, output, session) {
     
     if(!is.na(col_pass1) & !is.na(col_pass2)) {
       pass_flows <- df %>%
-        filter(Row == "SGP CPA") %>%
+        filter(Row == "Home CPA") %>%
         select(P1 = !!sym(col_pass1), P2 = !!sym(col_pass2)) %>%
         separate_rows(P1, sep=",\\s*") %>% separate_rows(P2, sep=",\\s*") %>%
         mutate(P1=str_trim(P1), P2=str_trim(P2)) %>%
@@ -459,7 +456,7 @@ server <- function(input, output, session) {
     
     if(!is.na(col_1) & !is.na(col_2)) {
       df %>%
-        filter(Row == "SGP CPA") %>%
+        filter(Row == "Home CPA") %>%
         select(R1 = !!sym(col_1), R2 = !!sym(col_2)) %>%
         separate_rows(R1, sep=",\\s*") %>% separate_rows(R2, sep=",\\s*") %>%
         mutate(Combo = paste(str_trim(R1), "-", str_trim(R2))) %>%
@@ -478,7 +475,7 @@ server <- function(input, output, session) {
     df <- dataset()
     
     stats <- df %>%
-      filter(Row %in% c("SGP Gains", "SGP Turnovers")) %>%
+      filter(Row %in% c("Home Gains", "Home Turnovers")) %>%
       group_by(Row) %>%
       summarise(Count = n())
     
@@ -506,8 +503,8 @@ server <- function(input, output, session) {
         coord_fixed() + theme_void() + labs(title=title) + theme(legend.position="none")
     }
     
-    p1 <- gen_hm("SGP Gains", "Gains", "#e5f5e0", "#31a354")
-    p2 <- gen_hm("SGP Turnovers", "Turnovers", "#fee0d2", "#de2d26")
+    p1 <- gen_hm("Home Gains", "Gains", "#e5f5e0", "#31a354")
+    p2 <- gen_hm("Home Turnovers", "Turnovers", "#fee0d2", "#de2d26")
     
     grid.arrange(p1, p2, ncol=2)
   })
@@ -517,7 +514,7 @@ server <- function(input, output, session) {
     df <- dataset()
     
     reasons <- df %>%
-      filter(Row %in% c("SGP Gains", "SGP Turnovers")) %>%
+      filter(Row %in% c("Home Gains", "Home Turnovers")) %>%
       separate_rows(`Gains / Turnover Reason`, sep=",\\s*") %>%
       mutate(Reason = str_trim(`Gains / Turnover Reason`)) %>%
       filter(Reason != "", !is.na(Reason)) %>%
@@ -525,18 +522,18 @@ server <- function(input, output, session) {
     
     ggplot(reasons, aes(x=n, y=reorder(Reason, n), fill=Row)) +
       geom_col(position="dodge") +
-      scale_fill_manual(values=c("SGP Gains"="#57BB8A", "SGP Turnovers"="#E67C73")) +
+      scale_fill_manual(values=c("Home Gains"="#57BB8A", "Home Turnovers"="#E67C73")) +
       theme_minimal() + labs(x="Count", y="", fill="")
   })
-
+  
   output$downloadData <- downloadHandler(
     filename = function() {
-      "sample_netball_data.csv"
+      "mock_netball_data.csv"
     },
     content = function(file) {
-      # This reads the internal dummy data and gives it to the user
-    write.csv(read.csv("data/mock_netball_data.csv"), file, row.names = FALSE)
+      write.csv(read.csv("data/mock_netball_data.csv"), file, row.names = FALSE)
     })
+  
 }
 
 # Run the Application
