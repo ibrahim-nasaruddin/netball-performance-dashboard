@@ -1,191 +1,191 @@
-Row,Quarter,Start time,Shot Outcome,Player,1st Receiver,2nd Receiver,Turnover Location,Gains / Turnover Reason,1st Pass,2nd Pass
-Away Shot,Q1,24,Away Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,55,Away Miss,GA,NA,NA,NA,NA,,
-Away Shot,Q1,57,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,74,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,110,Home Goal,GA,NA,NA,NA,NA,,
-Home CPA,Q1,120,Home Goal,NA,GA,GS,NA,NA,Center Mid Attack,Attacking Left Pocket
-Away Shot,Q1,134,Away Miss,GA,NA,NA,NA,NA,,
-Home Shot,Q1,153,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,165,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,223,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q1,225,Away Miss,GA,NA,NA,NA,NA,,
-Away Shot,Q1,234,Away Miss,GA,NA,NA,NA,NA,,
-Away Shot,Q1,238,Away Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,258,Away Miss,GA,NA,NA,NA,NA,,
-Home Shot,Q1,277,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,278,Home Goal,GS,NA,NA,NA,NA,,
-Home CPA,Q1,319,Home Goal,NA,WA,WA,NA,NA,Center Mid Defense,Attacking Middle
-Home Gains,Q1,365,NA,NA,NA,NA,Defensive Right,Intercept,,
-Home Shot,Q1,374,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,377,Away Goal,GA,NA,NA,NA,NA,,
-Home Gains,Q1,384,NA,NA,NA,NA,Center Mid Defense,Held Ball,,
-Away Shot,Q1,389,Away Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,415,Away Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q1,463,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q1,466,Away Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q1,483,Home Goal,GA,NA,NA,NA,NA,,
-Home Turnovers,Q1,516,NA,NA,NA,NA,Defensive D,Step,,
-Home Gains,Q1,535,NA,NA,NA,NA,Defensive D,Step,,
-Away Shot,Q1,553,Away Goal,GS,NA,NA,NA,NA,,
-Home CPA,Q1,569,Home Goal,NA,WD,WA,NA,NA,Center Mid Defense,Attacking Left Pocket
-Away Shot,Q1,578,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,581,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q1,588,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q1,597,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,598,Home Miss,GA,NA,NA,NA,NA,,
-Home Shot,Q1,606,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,648,Away Miss,GS,NA,NA,NA,NA,,
-Away Shot,Q1,682,Away Miss,GS,NA,NA,NA,NA,,
-Away Shot,Q1,710,Away Miss,GA,NA,NA,NA,NA,,
-Home Shot,Q1,722,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,724,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q1,737,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q1,752,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q1,821,Away Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q1,854,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q1,865,Home Miss,GA,NA,NA,NA,NA,,
-Away Shot,Q1,866,Away Goal,GA,NA,NA,NA,NA,,
-Home Gains,Q1,879,NA,NA,NA,NA,Defensive Middle,Bad Pass,,
-Home CPA,Q1,893,Home Goal,NA,WA,GS,NA,NA,Center Right Attack,Attacking D
-Home CPA,Q1,898,Home Goal,NA,WA,GS,NA,NA,Center Right Attack,Attacking Right
-Home DCPA,Q2,19,No Shot,NA,WD,WA,NA,NA,Center Left Defense,Attacking Right Pocket
-Home Shot,Q2,41,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q2,64,Home Miss,GS,NA,NA,NA,NA,,
-Home Shot,Q2,67,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,69,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,89,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,90,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,116,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q2,130,Away Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q2,139,Home Goal,NA,WA,WA,NA,NA,Center Mid Attack,Attacking Right
-Away Shot,Q2,163,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q2,177,Away Goal,GS,NA,NA,NA,NA,,
-Home DCPA,Q2,188,Home Goal,NA,GA,WA,NA,NA,Center Mid Defense,Attacking D
-Home DCPA,Q2,189,Home Goal,NA,WD,WA,NA,NA,Center Mid Attack,Attacking Left Pocket
-Away Shot,Q2,217,Away Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q2,244,Home Miss,NA,GA,WA,NA,NA,Center Left Defense,Attacking Left
-Home Turnovers,Q2,248,NA,NA,NA,NA,Defensive Right Pocket,Contact,,
-Home Gains,Q2,265,NA,NA,NA,NA,Center Mid Defense,Step,,
-Home Shot,Q2,294,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,316,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q2,349,Away Goal,GS,NA,NA,NA,NA,,
-Home DCPA,Q2,382,Home Goal,NA,GD,GA,NA,NA,Center Right Defense,Attacking Right Pocket
-Away Shot,Q2,386,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,409,Home Goal,GA,NA,NA,NA,NA,,
-Home CPA,Q2,418,Home Goal,NA,GA,GA,NA,NA,Center Left Attack,Attacking Right Pocket
-Away Shot,Q2,445,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q2,456,Home Goal,GS,NA,NA,NA,NA,,
-Home Gains,Q2,459,NA,NA,NA,NA,Defensive Left Pocket,Contact,,
-Home Turnovers,Q2,489,NA,NA,NA,NA,Center Mid Defense,Intercept,,
-Away Shot,Q2,498,Away Miss,GS,NA,NA,NA,NA,,
-Home Shot,Q2,575,Home Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q2,642,No Shot,NA,WD,GA,NA,NA,Center Mid Defense,Attacking Middle
-Home Shot,Q2,648,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q2,658,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q2,660,Away Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q2,671,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q2,688,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q2,703,Away Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q2,711,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q2,757,Away Goal,GS,NA,NA,NA,NA,,
-Home Turnovers,Q2,789,NA,NA,NA,NA,Defensive Right,Intercept,,
-Home Shot,Q2,818,Home Miss,GA,NA,NA,NA,NA,,
-Home Turnovers,Q2,834,NA,NA,NA,NA,Defensive D,Intercept,,
-Home Shot,Q2,859,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q2,870,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,13,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,34,Home Goal,GA,NA,NA,NA,NA,,
-Home CPA,Q3,37,No Shot,NA,GD,GS,NA,NA,Center Right Attack,Attacking Right
-Home DCPA,Q3,38,Home Goal,NA,WA,GS,NA,NA,Center Left Defense,Attacking D
-Home Shot,Q3,39,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,51,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,72,Home Goal,GA,NA,NA,NA,NA,,
-Home Gains,Q3,93,NA,NA,NA,NA,Center Left Defense,Step,,
-Away Shot,Q3,104,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q3,117,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,121,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,158,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,159,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q3,170,Away Goal,GA,NA,NA,NA,NA,,
-Home Turnovers,Q3,171,NA,NA,NA,NA,Center Mid Defense,Intercept,,
-Away Shot,Q3,210,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q3,222,Away Goal,GS,NA,NA,NA,NA,,
-Home Turnovers,Q3,227,NA,NA,NA,NA,Center Right Defense,Contact,,
-Home Turnovers,Q3,243,NA,NA,NA,NA,Center Mid Defense,Held Ball,,
-Home Shot,Q3,286,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,308,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q3,330,Away Goal,GS,NA,NA,NA,NA,,
-Home DCPA,Q3,371,No Shot,NA,GA,WA,NA,NA,Center Right Defense,Attacking D
-Away Shot,Q3,390,Away Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q3,393,Home Miss,NA,WD,GS,NA,NA,Center Left Defense,Attacking Right Pocket
-Away Shot,Q3,401,Away Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,424,Home Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q3,441,Home Goal,NA,GD,GS,NA,NA,Center Left Attack,Attacking D
-Away Shot,Q3,447,Away Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q3,468,Away Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,477,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,480,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,528,Home Goal,GS,NA,NA,NA,NA,,
-Home DCPA,Q3,533,No Shot,NA,GD,WA,NA,NA,Center Right Defense,Attacking Left Pocket
-Home Shot,Q3,588,Home Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q3,615,No Shot,NA,GA,GS,NA,NA,Center Left Defense,Attacking Right Pocket
-Home Gains,Q3,622,NA,NA,NA,NA,Defensive Right Pocket,Held Ball,,
-Away Shot,Q3,657,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,663,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q3,671,Home Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q3,673,Away Miss,GA,NA,NA,NA,NA,,
-Home CPA,Q3,686,Home Goal,NA,WA,GA,NA,NA,Center Mid Attack,Attacking Middle
-Home Gains,Q3,696,NA,NA,NA,NA,Defensive Left Pocket,Bad Pass,,
-Home CPA,Q3,712,Home Goal,NA,GA,GS,NA,NA,Center Right Defense,Attacking Middle
-Home CPA,Q3,719,Home Goal,NA,GA,GS,NA,NA,Center Right Defense,Attacking Left
-Home Gains,Q3,741,NA,NA,NA,NA,Defensive D,Contact,,
-Home Shot,Q3,747,Home Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q3,755,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q3,781,Away Goal,GS,NA,NA,NA,NA,,
-Home Gains,Q3,793,NA,NA,NA,NA,Defensive Right,Held Ball,,
-Away Shot,Q3,831,Away Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q3,838,No Shot,NA,WA,GS,NA,NA,Center Left Defense,Attacking Left
-Home Gains,Q3,838,NA,NA,NA,NA,Defensive Right Pocket,Intercept,,
-Home CPA,Q4,48,No Shot,NA,WA,GS,NA,NA,Center Left Attack,Attacking D
-Home Gains,Q4,48,NA,NA,NA,NA,Center Left Defense,Step,,
-Home DCPA,Q4,84,Home Goal,NA,WD,GS,NA,NA,Center Left Defense,Attacking Left
-Home Shot,Q4,85,Home Goal,GS,NA,NA,NA,NA,,
-Home Turnovers,Q4,105,NA,NA,NA,NA,Defensive Left Pocket,Intercept,,
-Home Turnovers,Q4,112,NA,NA,NA,NA,Center Left Defense,Held Ball,,
-Home Shot,Q4,141,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q4,141,Away Goal,GS,NA,NA,NA,NA,,
-Away Shot,Q4,165,Away Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q4,209,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q4,291,Home Goal,GS,NA,NA,NA,NA,,
-Home CPA,Q4,299,Home Goal,NA,WD,WA,NA,NA,Center Right Defense,Attacking Right Pocket
-Home DCPA,Q4,303,Home Goal,NA,WA,GS,NA,NA,Center Left Attack,Attacking Right
-Home CPA,Q4,311,Home Goal,NA,GA,GA,NA,NA,Center Right Attack,Attacking Middle
-Home Turnovers,Q4,315,NA,NA,NA,NA,Defensive D,Held Ball,,
-Home CPA,Q4,331,Home Goal,NA,WA,GA,NA,NA,Center Right Attack,Attacking Right
-Home CPA,Q4,378,Home Goal,NA,GD,GA,NA,NA,Center Left Attack,Attacking Middle
-Home DCPA,Q4,402,Home Goal,NA,GD,GA,NA,NA,Center Right Defense,Attacking Right
-Away Shot,Q4,421,Away Miss,GS,NA,NA,NA,NA,,
-Home Shot,Q4,431,Home Goal,GS,NA,NA,NA,NA,,
-Home Gains,Q4,456,NA,NA,NA,NA,Defensive Left Pocket,Intercept,,
-Home DCPA,Q4,464,Home Goal,NA,WA,WA,NA,NA,Center Right Attack,Attacking Right
-Home Turnovers,Q4,468,NA,NA,NA,NA,Center Left Defense,Intercept,,
-Home Gains,Q4,471,NA,NA,NA,NA,Defensive Right,Step,,
-Home Gains,Q4,482,NA,NA,NA,NA,Center Left Defense,Contact,,
-Home Shot,Q4,516,Home Miss,GA,NA,NA,NA,NA,,
-Away Shot,Q4,516,Away Goal,GS,NA,NA,NA,NA,,
-Home Shot,Q4,537,Home Goal,GA,NA,NA,NA,NA,,
-Away Shot,Q4,537,Away Goal,GA,NA,NA,NA,NA,,
-Home DCPA,Q4,549,Home Goal,NA,WA,WA,NA,NA,Center Right Attack,Attacking Left Pocket
-Away Shot,Q4,557,Away Goal,GA,NA,NA,NA,NA,,
-Home CPA,Q4,566,Home Goal,NA,GA,WA,NA,NA,Center Mid Defense,Attacking Right
-Home Gains,Q4,591,NA,NA,NA,NA,Defensive Left Pocket,Intercept,,
-Home Turnovers,Q4,631,NA,NA,NA,NA,Defensive Left Pocket,Held Ball,,
-Home CPA,Q4,670,Home Goal,NA,GA,WA,NA,NA,Center Right Attack,Attacking Left
-Home DCPA,Q4,671,Home Goal,NA,WA,GA,NA,NA,Center Left Defense,Attacking Middle
-Home CPA,Q4,703,Home Miss,NA,GD,GS,NA,NA,Center Right Attack,Attacking Right Pocket
-Home Shot,Q4,711,Home Goal,GA,NA,NA,NA,NA,,
-Home Shot,Q4,774,Home Miss,GA,NA,NA,NA,NA,,
-Home DCPA,Q4,846,Home Goal,NA,WD,GA,NA,NA,Center Mid Attack,Attacking Left
-Away Shot,Q4,861,Away Goal,GA,NA,NA,NA,NA,,
-Home CPA,Q4,879,Home Goal,NA,WD,WA,NA,NA,Center Right Attack,Attacking D
+Timeline,Start time,Duration,Row,Instance number,1st Phase Pass,1st Phase Receiver,2nd Phase Pass,2nd Phase Receiver,Feed Location,Feed Success,Gains / Turnover Reason,Player,Quarter,Shooter Position,Shot Location,Shot Outcome,Turnover Location,Ungrouped,Notes,Flags
+HomevsAway_Mock,19,20,Home CPA,6,Center Right Attack,GA,Attacking Right Pocket,GA,NA,NA,NA,NA,Q1,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,22,5,Away Shot,1,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,22,5,Home Gains,1,NA,NA,NA,NA,NA,NA,Intercept,NA,Q1,NA,NA,NA,Defensive D,NA,NA,NA
+HomevsAway_Mock,33,5,Away Shot,3,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,40,5,Home Gains,26,NA,NA,NA,NA,NA,NA,Step,NA,Q1,NA,NA,NA,Defensive Right Pocket,NA,NA,NA
+HomevsAway_Mock,52,5,Home Shot,5,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,54,5,Home Shot,6,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,87,5,Away Shot,9,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,116,5,Home Gains,6,NA,NA,NA,NA,NA,NA,Intercept,NA,Q1,NA,NA,NA,Center Left Defense,NA,NA,NA
+HomevsAway_Mock,124,20,Home DCPA,15,Center Left Defense,GD,Attacking Middle,WA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,136,5,Away Shot,11,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,160,20,Home CPA,39,Center Right Defense,GA,Attacking Left,WA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,189,5,Away Shot,14,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,224,20,Home DCPA,18,Center Left Attack,GA,Attacking Left,GS,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,314,5,Home Shot,18,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,316,20,Home CPA,28,Center Left Defense,GD,Attacking Right,GA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,355,5,Home Shot,20,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,363,5,Away Shot,20,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,379,20,Home DCPA,11,Center Mid Defense,GA,Attacking D,GS,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,380,5,Away Shot,22,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,409,5,Home Gains,27,NA,NA,NA,NA,NA,NA,Held Ball,NA,Q1,NA,NA,NA,Center Right Defense,NA,NA,NA
+HomevsAway_Mock,435,5,Away Shot,27,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,490,5,Home Shot,30,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,501,5,Home Turnovers,19,NA,NA,NA,NA,NA,NA,Held Ball,NA,Q1,NA,NA,NA,Defensive Right,NA,NA,NA
+HomevsAway_Mock,523,5,Away Shot,31,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,523,20,Home CPA,29,Center Mid Attack,GD,Attacking Right,GA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,532,5,Home Shot,31,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,535,5,Away Shot,32,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,548,5,Away Shot,34,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,550,5,Away Shot,35,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,563,20,Home DCPA,26,Center Mid Defense,WA,Attacking D,WA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,572,20,Home DCPA,3,Center Left Attack,GA,Attacking Right Pocket,GA,NA,NA,NA,NA,Q1,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,591,20,Home CPA,38,Center Right Attack,WA,Attacking Right Pocket,WA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,613,5,Home Gains,24,NA,NA,NA,NA,NA,NA,Step,NA,Q1,NA,NA,NA,Center Left Defense,NA,NA,NA
+HomevsAway_Mock,619,20,Home DCPA,36,Center Left Defense,GD,Attacking Middle,GS,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,640,5,Home Shot,36,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,649,5,Home Shot,37,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,658,5,Away Shot,45,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,697,20,Home CPA,30,Center Right Attack,GA,Attacking D,GS,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,708,5,Away Shot,47,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,721,5,Home Turnovers,14,NA,NA,NA,NA,NA,NA,Step,NA,Q1,NA,NA,NA,Center Mid Defense,NA,NA,NA
+HomevsAway_Mock,727,5,Home Shot,41,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,761,5,Away Shot,51,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,791,5,Away Shot,54,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,793,20,Home CPA,17,Center Mid Defense,WA,Attacking Left,GA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,809,5,Away Shot,55,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,840,5,Away Shot,57,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,847,20,Home DCPA,27,Center Right Attack,GA,Attacking D,GS,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,851,5,Home Turnovers,25,NA,NA,NA,NA,NA,NA,Bad Pass,NA,Q1,NA,NA,NA,Defensive Right,NA,NA,NA
+HomevsAway_Mock,869,5,Home Shot,53,NA,NA,NA,NA,NA,NA,NA,GS,Q1,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,885,20,Home CPA,23,Center Mid Attack,WD,Attacking Right Pocket,GA,NA,NA,NA,NA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,896,5,Home Shot,60,NA,NA,NA,NA,NA,NA,NA,GA,Q1,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,4,20,Home CPA,37,Center Right Defense,WD,Attacking Right Pocket,WA,NA,NA,NA,NA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,24,5,Home Shot,2,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,40,5,Home Shot,3,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,57,5,Home Shot,7,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,65,5,Home Shot,8,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,99,5,Home Gains,10,NA,NA,NA,NA,NA,NA,Intercept,NA,Q2,NA,NA,NA,Defensive Left,NA,NA,NA
+HomevsAway_Mock,110,5,Home Shot,11,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,120,5,Away Shot,10,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,127,20,Home CPA,35,Center Left Defense,WD,Attacking Left,GA,NA,NA,NA,NA,Q2,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,133,5,Home Turnovers,22,NA,NA,NA,NA,NA,NA,Step,NA,Q2,NA,NA,NA,Defensive Right Pocket,NA,NA,NA
+HomevsAway_Mock,137,5,Home Shot,13,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,156,5,Home Shot,14,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,185,5,Home Gains,16,NA,NA,NA,NA,NA,NA,Step,NA,Q2,NA,NA,NA,Defensive Right Pocket,NA,NA,NA
+HomevsAway_Mock,235,20,Home DCPA,20,Center Right Defense,GA,Attacking Left Pocket,WA,NA,NA,NA,NA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,375,20,Home DCPA,1,Center Right Attack,GA,Attacking Right Pocket,GA,NA,NA,NA,NA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,378,5,Away Shot,21,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,389,5,Away Shot,23,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,406,5,Home Turnovers,15,NA,NA,NA,NA,NA,NA,Held Ball,NA,Q2,NA,NA,NA,Defensive Left Pocket,NA,NA,NA
+HomevsAway_Mock,409,5,Home Shot,23,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,411,5,Home Shot,24,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,417,5,Away Shot,24,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,451,5,Home Shot,27,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,457,5,Home Gains,23,NA,NA,NA,NA,NA,NA,Contact,NA,Q2,NA,NA,NA,Defensive Left,NA,NA,NA
+HomevsAway_Mock,465,20,Home DCPA,16,Center Right Defense,WA,Attacking Right Pocket,GS,NA,NA,NA,NA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,468,5,Home Shot,29,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,480,20,Home CPA,21,Center Left Defense,WD,Attacking D,WA,NA,NA,NA,NA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,493,5,Home Gains,7,NA,NA,NA,NA,NA,NA,Intercept,NA,Q2,NA,NA,NA,Defensive D,NA,NA,NA
+HomevsAway_Mock,515,5,Away Shot,30,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,545,5,Home Shot,32,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,555,5,Away Shot,36,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,562,5,Home Shot,33,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,567,5,Away Shot,37,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,569,5,Away Shot,38,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,576,5,Home Shot,34,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,598,5,Away Shot,39,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,603,5,Home Turnovers,3,NA,NA,NA,NA,NA,NA,Held Ball,NA,Q2,NA,NA,NA,Center Mid Defense,NA,NA,NA
+HomevsAway_Mock,604,5,Away Shot,40,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,683,5,Home Shot,38,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,694,5,Home Shot,40,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,726,5,Away Shot,48,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,751,5,Away Shot,50,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,782,5,Home Shot,46,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,808,5,Home Shot,48,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,860,20,Home CPA,24,Center Mid Attack,WA,Attacking Left Pocket,GS,NA,NA,NA,NA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,862,5,Away Shot,59,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,874,5,Home Shot,55,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,876,5,Home Shot,56,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,883,5,Home Shot,57,NA,NA,NA,NA,NA,NA,NA,GS,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,886,5,Away Shot,60,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,887,5,Home Shot,58,NA,NA,NA,NA,NA,NA,NA,GA,Q2,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,9,5,Home Shot,1,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,31,5,Away Shot,2,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,50,5,Away Shot,4,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,75,20,Home CPA,22,Center Right Attack,GD,Attacking Right Pocket,GA,NA,NA,NA,NA,Q3,NA,NA,No Shot,NA,NA,NA,NA
+HomevsAway_Mock,82,5,Away Shot,7,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,101,20,Home DCPA,7,Center Mid Defense,WA,Attacking Right Pocket,GS,NA,NA,NA,NA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,110,5,Home Gains,11,NA,NA,NA,NA,NA,NA,Intercept,NA,Q3,NA,NA,NA,Defensive Right Pocket,NA,NA,NA
+HomevsAway_Mock,161,20,Home CPA,40,Center Left Attack,GD,Attacking Middle,WA,NA,NA,NA,NA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,165,5,Home Shot,15,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,201,5,Home Turnovers,18,NA,NA,NA,NA,NA,NA,Intercept,NA,Q3,NA,NA,NA,Defensive Left,NA,NA,NA
+HomevsAway_Mock,209,5,Away Shot,15,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,241,20,Home DCPA,19,Center Left Attack,WD,Attacking Right,WA,NA,NA,NA,NA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,243,20,Home DCPA,10,Center Left Attack,WA,Attacking Right Pocket,WA,NA,NA,NA,NA,Q3,NA,NA,No Shot,NA,NA,NA,NA
+HomevsAway_Mock,270,5,Away Shot,17,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,281,5,Home Gains,13,NA,NA,NA,NA,NA,NA,Bad Pass,NA,Q3,NA,NA,NA,Defensive Right Pocket,NA,NA,NA
+HomevsAway_Mock,287,5,Home Shot,17,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,297,5,Home Gains,20,NA,NA,NA,NA,NA,NA,Contact,NA,Q3,NA,NA,NA,Defensive Right,NA,NA,NA
+HomevsAway_Mock,318,5,Away Shot,18,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,320,5,Home Gains,5,NA,NA,NA,NA,NA,NA,Bad Pass,NA,Q3,NA,NA,NA,Defensive D,NA,NA,NA
+HomevsAway_Mock,380,5,Home Shot,21,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,381,5,Home Shot,22,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,438,5,Home Turnovers,4,NA,NA,NA,NA,NA,NA,Contact,NA,Q3,NA,NA,NA,Defensive Left Pocket,NA,NA,NA
+HomevsAway_Mock,440,5,Home Turnovers,29,NA,NA,NA,NA,NA,NA,Step,NA,Q3,NA,NA,NA,Center Mid Defense,NA,NA,NA
+HomevsAway_Mock,460,5,Home Shot,28,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,460,5,Home Turnovers,21,NA,NA,NA,NA,NA,NA,Intercept,NA,Q3,NA,NA,NA,Center Right Defense,NA,NA,NA
+HomevsAway_Mock,483,20,Home DCPA,8,Center Left Defense,GA,Attacking Right,WA,NA,NA,NA,NA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,488,5,Away Shot,29,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,637,5,Away Shot,43,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,680,5,Away Shot,46,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,684,5,Home Shot,39,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,713,20,Home CPA,13,Center Right Defense,GA,Attacking D,GA,NA,NA,NA,NA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,750,5,Away Shot,49,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,751,5,Home Shot,42,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,758,5,Home Turnovers,9,NA,NA,NA,NA,NA,NA,Step,NA,Q3,NA,NA,NA,Defensive Right Pocket,NA,NA,NA
+HomevsAway_Mock,763,5,Away Shot,52,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,767,5,Home Shot,44,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,783,5,Away Shot,53,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,810,5,Home Gains,8,NA,NA,NA,NA,NA,NA,Held Ball,NA,Q3,NA,NA,NA,Center Mid Defense,NA,NA,NA
+HomevsAway_Mock,835,5,Away Shot,56,NA,NA,NA,NA,NA,NA,NA,GA,Q3,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,849,20,Home DCPA,34,Center Left Attack,WA,Attacking Right,GA,NA,NA,NA,NA,Q3,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,870,5,Home Shot,54,NA,NA,NA,NA,NA,NA,NA,GS,Q3,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,44,20,Home CPA,14,Center Right Defense,GA,Attacking Left,GS,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,46,5,Home Shot,4,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,61,5,Away Shot,5,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,69,5,Away Shot,6,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,79,5,Home Gains,17,NA,NA,NA,NA,NA,NA,Contact,NA,Q4,NA,NA,NA,Defensive Left,NA,NA,NA
+HomevsAway_Mock,83,5,Away Shot,8,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,102,20,Home DCPA,33,Center Right Defense,GD,Attacking Left,WA,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,104,5,Home Shot,9,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,105,5,Home Shot,10,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,118,5,Home Shot,12,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,130,20,Home CPA,32,Center Mid Attack,GA,Attacking Right Pocket,GS,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,157,5,Away Shot,12,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,184,5,Away Shot,13,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,214,20,Home CPA,4,Center Mid Defense,WD,Attacking D,GA,NA,NA,NA,NA,Q4,NA,NA,No Shot,NA,NA,NA,NA
+HomevsAway_Mock,215,5,Home Turnovers,2,NA,NA,NA,NA,NA,NA,Step,NA,Q4,NA,NA,NA,Center Left Defense,NA,NA,NA
+HomevsAway_Mock,220,5,Away Shot,16,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,247,5,Home Turnovers,12,NA,NA,NA,NA,NA,NA,Intercept,NA,Q4,NA,NA,NA,Defensive D,NA,NA,NA
+HomevsAway_Mock,274,5,Home Shot,16,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,300,20,Home DCPA,9,Center Mid Defense,GA,Attacking D,GA,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,321,5,Away Shot,19,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,323,20,Home DCPA,25,Center Mid Attack,GD,Attacking Right Pocket,WA,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,348,5,Home Shot,19,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,427,5,Away Shot,25,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,429,5,Home Shot,25,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,430,5,Away Shot,26,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,436,5,Home Shot,26,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,441,20,Home DCPA,31,Center Right Defense,GD,Attacking Left,WA,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,476,5,Away Shot,28,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,482,5,Home Turnovers,30,NA,NA,NA,NA,NA,NA,Held Ball,NA,Q4,NA,NA,NA,Defensive Left,NA,NA,NA
+HomevsAway_Mock,541,5,Away Shot,33,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,611,5,Away Shot,41,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,635,5,Away Shot,42,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,639,5,Home Shot,35,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,641,5,Away Shot,44,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Goal,NA,NA,NA,NA
+HomevsAway_Mock,760,5,Home Shot,43,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,769,5,Home Shot,45,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,785,5,Home Turnovers,28,NA,NA,NA,NA,NA,NA,Contact,NA,Q4,NA,NA,NA,Defensive Right,NA,NA,NA
+HomevsAway_Mock,791,20,Home DCPA,12,Center Mid Defense,GA,Attacking Right Pocket,GA,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,799,5,Home Shot,47,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,814,20,Home DCPA,5,Center Right Defense,WD,Attacking Left,WA,NA,NA,NA,NA,Q4,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,836,5,Home Shot,49,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,837,5,Home Shot,50,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Miss,NA,NA,NA,NA
+HomevsAway_Mock,844,5,Home Shot,51,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,844,5,Away Shot,58,NA,NA,NA,NA,NA,NA,NA,GA,Q4,NA,NA,Away Miss,NA,NA,NA,NA
+HomevsAway_Mock,848,20,Home CPA,2,Center Mid Attack,GA,Attacking Right,GA,NA,NA,NA,NA,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,864,5,Home Shot,52,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
+HomevsAway_Mock,888,5,Home Shot,59,NA,NA,NA,NA,NA,NA,NA,GS,Q4,NA,NA,Home Goal,NA,NA,NA,NA
