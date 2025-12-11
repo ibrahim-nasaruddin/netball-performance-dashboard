@@ -186,6 +186,11 @@ server <- function(input, output, session) {
     # Read Data
     raw_data <- read_csv(input$file1$datapath)
     
+    # --- FIX COLUMN NAMES (Fixes Dots vs Spaces issue) ---
+    names(raw_data) <- names(raw_data) %>% 
+      str_replace_all("\\.", " ") %>% 
+      str_remove("^X(?=[0-9])") 
+    
     # 1. CLEAN DATA
     # Remove empty columns
     clean_data <- raw_data %>%
@@ -297,14 +302,28 @@ server <- function(input, output, session) {
       p_sub <- plot_data %>% filter(Quarter == q)
       r_sub <- runs_data %>% filter(Quarter == q)
       
+      # Filter for labels: only label the point corresponding to the team that scored
+      label_sub <- p_sub %>%
+        filter((Scorer == "Home" & TeamVar == "Score_Home") | 
+                 (Scorer == "Away" & TeamVar == "Score_Away"))
+      
       ggplot() +
+        # Highlights (Runs)
         geom_rect(data = r_sub, aes(xmin = Start_Time, xmax = End_Time, ymin = -Inf, ymax = Inf, fill = Scorer), alpha = 0.5) +
+        # Score Lines
         geom_step(data = p_sub, aes(x = Time, y = Score, color = TeamDisplay), size = 1) +
+        # Score Points & Labels
+        geom_point(data = label_sub, aes(x = Time, y = Score, color = TeamDisplay), size = 2) +
+        geom_text_repel(data = label_sub, aes(x = Time, y = Score, label = Score), 
+                        size = 3, fontface = "bold", box.padding = 0.3) +
+        # Scales
         scale_color_manual(values = line_colors) +
-        scale_fill_manual(values = fill_colors) +
+        scale_fill_manual(values = fill_colors, labels = c("Home" = paste(team_n, "Run"), "Away" = paste(opp_n, "Run"))) +
         theme_classic() +
-        labs(title = paste("Momentum:", q), x = "Time", y = "Score") +
-        theme(legend.position = "none")
+        labs(title = paste("Momentum:", q), 
+             subtitle = "Shaded areas indicate scoring runs (4+ consecutive goals)",
+             x = "Time", y = "Score") +
+        theme(legend.position = "bottom", legend.title = element_blank())
     })
     
     grid.arrange(grobs = q_plots, ncol = 2)
@@ -531,9 +550,8 @@ server <- function(input, output, session) {
       "mock_netball_data.csv"
     },
     content = function(file) {
-      write.csv(read.csv("data/mock_netball_data.csv"), file, row.names = FALSE)
-    })
-  
+      file.copy("data/mock_netball_data.csv", file)
+    })  
 }
 
 # Run the Application
