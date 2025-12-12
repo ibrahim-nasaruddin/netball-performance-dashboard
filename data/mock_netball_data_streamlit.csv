@@ -1,0 +1,191 @@
+Row,Quarter,Start.time,Shot.Outcome,Player,X1st.Receiver,X2nd.Receiver,Turnover.Location,Gains...Turnover.Reason,X1st.Pass,X2nd.Pass,Position,Shot Location
+Away Shot,Q1,24,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,55,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q1,57,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home Shot,Q1,74,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,110,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home CPA,Q1,120,Home Goal,NA,GA,GS,NA,NA,Center Mid Attack,Attacking Left Pocket,NA,NA
+Away Shot,Q1,134,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,153,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,165,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,223,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q1,225,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q1,234,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Away Shot,Q1,238,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,258,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,277,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home Shot,Q1,278,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home CPA,Q1,319,Home Goal,NA,WA,WA,NA,NA,Center Mid Defense,Attacking Middle,NA,NA
+Home Gains,Q1,365,NA,NA,NA,NA,Defensive Right,Intercept,NA,NA,NA,NA
+Home Shot,Q1,374,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,377,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Gains,Q1,384,NA,NA,NA,NA,Center Mid Defense,Held Ball,NA,NA,NA,NA
+Away Shot,Q1,389,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,415,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q1,463,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q1,466,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q1,483,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Turnovers,Q1,516,NA,NA,NA,NA,Defensive D,Step,NA,NA,NA,NA
+Home Gains,Q1,535,NA,NA,NA,NA,Defensive D,Step,NA,NA,NA,NA
+Away Shot,Q1,553,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home CPA,Q1,569,Home Goal,NA,WD,WA,NA,NA,Center Mid Defense,Attacking Left Pocket,NA,NA
+Away Shot,Q1,578,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q1,581,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Away Shot,Q1,588,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q1,597,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q1,598,Home Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,606,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Outer Circle
+Away Shot,Q1,648,Away Miss,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,682,Away Miss,Player A,NA,NA,NA,NA,NA,NA,GS,Circle Edge
+Away Shot,Q1,710,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q1,722,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,724,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Away Shot,Q1,737,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home Shot,Q1,752,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q1,821,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q1,854,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q1,865,Home Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Away Shot,Q1,866,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home Gains,Q1,879,NA,NA,NA,NA,Defensive Middle,Bad Pass,NA,NA,NA,NA
+Home CPA,Q1,893,Home Goal,NA,WA,GS,NA,NA,Center Right Attack,Attacking D,NA,NA
+Home CPA,Q1,898,Home Goal,NA,WA,GS,NA,NA,Center Right Attack,Attacking Right,NA,NA
+Home DCPA,Q2,19,No Shot,NA,WD,WA,NA,NA,Center Left Defense,Attacking Right Pocket,NA,NA
+Home Shot,Q2,41,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Outer Circle
+Home Shot,Q2,64,Home Miss,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q2,67,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q2,69,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q2,89,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q2,90,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q2,116,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q2,130,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home DCPA,Q2,139,Home Goal,NA,WA,WA,NA,NA,Center Mid Attack,Attacking Right,NA,NA
+Away Shot,Q2,163,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Away Shot,Q2,177,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home DCPA,Q2,188,Home Goal,NA,GA,WA,NA,NA,Center Mid Defense,Attacking D,NA,NA
+Home DCPA,Q2,189,Home Goal,NA,WD,WA,NA,NA,Center Mid Attack,Attacking Left Pocket,NA,NA
+Away Shot,Q2,217,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home DCPA,Q2,244,Home Miss,NA,GA,WA,NA,NA,Center Left Defense,Attacking Left,NA,NA
+Home Turnovers,Q2,248,NA,NA,NA,NA,Defensive Right Pocket,Contact,NA,NA,NA,NA
+Home Gains,Q2,265,NA,NA,NA,NA,Center Mid Defense,Step,NA,NA,NA,NA
+Home Shot,Q2,294,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q2,316,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q2,349,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home DCPA,Q2,382,Home Goal,NA,GD,GA,NA,NA,Center Right Defense,Attacking Right Pocket,NA,NA
+Away Shot,Q2,386,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q2,409,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home CPA,Q2,418,Home Goal,NA,GA,GA,NA,NA,Center Left Attack,Attacking Right Pocket,NA,NA
+Away Shot,Q2,445,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q2,456,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Circle Edge
+Home Gains,Q2,459,NA,NA,NA,NA,Defensive Left Pocket,Contact,NA,NA,NA,NA
+Home Turnovers,Q2,489,NA,NA,NA,NA,Center Mid Defense,Intercept,NA,NA,NA,NA
+Away Shot,Q2,498,Away Miss,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q2,575,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home DCPA,Q2,642,No Shot,NA,WD,GA,NA,NA,Center Mid Defense,Attacking Middle,NA,NA
+Home Shot,Q2,648,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Outer Circle
+Away Shot,Q2,658,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Away Shot,Q2,660,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Circle Edge
+Away Shot,Q2,671,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Away Shot,Q2,688,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Away Shot,Q2,703,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q2,711,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q2,757,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Turnovers,Q2,789,NA,NA,NA,NA,Defensive Right,Intercept,NA,NA,NA,NA
+Home Shot,Q2,818,Home Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Turnovers,Q2,834,NA,NA,NA,NA,Defensive D,Intercept,NA,NA,NA,NA
+Home Shot,Q2,859,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q2,870,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q3,13,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q3,34,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home CPA,Q3,37,No Shot,NA,GD,GS,NA,NA,Center Right Attack,Attacking Right,NA,NA
+Home DCPA,Q3,38,Home Goal,NA,WA,GS,NA,NA,Center Left Defense,Attacking D,NA,NA
+Home Shot,Q3,39,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q3,51,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q3,72,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Gains,Q3,93,NA,NA,NA,NA,Center Left Defense,Step,NA,NA,NA,NA
+Away Shot,Q3,104,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q3,117,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q3,121,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home Shot,Q3,158,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q3,159,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q3,170,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home Turnovers,Q3,171,NA,NA,NA,NA,Center Mid Defense,Intercept,NA,NA,NA,NA
+Away Shot,Q3,210,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Away Shot,Q3,222,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Turnovers,Q3,227,NA,NA,NA,NA,Center Right Defense,Contact,NA,NA,NA,NA
+Home Turnovers,Q3,243,NA,NA,NA,NA,Center Mid Defense,Held Ball,NA,NA,NA,NA
+Home Shot,Q3,286,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q3,308,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q3,330,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home DCPA,Q3,371,No Shot,NA,GA,WA,NA,NA,Center Right Defense,Attacking D,NA,NA
+Away Shot,Q3,390,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home DCPA,Q3,393,Home Miss,NA,WD,GS,NA,NA,Center Left Defense,Attacking Right Pocket,NA,NA
+Away Shot,Q3,401,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q3,424,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home DCPA,Q3,441,Home Goal,NA,GD,GS,NA,NA,Center Left Attack,Attacking D,NA,NA
+Away Shot,Q3,447,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Away Shot,Q3,468,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Circle Edge
+Home Shot,Q3,477,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q3,480,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q3,528,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home DCPA,Q3,533,No Shot,NA,GD,WA,NA,NA,Center Right Defense,Attacking Left Pocket,NA,NA
+Home Shot,Q3,588,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home DCPA,Q3,615,No Shot,NA,GA,GS,NA,NA,Center Left Defense,Attacking Right Pocket,NA,NA
+Home Gains,Q3,622,NA,NA,NA,NA,Defensive Right Pocket,Held Ball,NA,NA,NA,NA
+Away Shot,Q3,657,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q3,663,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home Shot,Q3,671,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q3,673,Away Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home CPA,Q3,686,Home Goal,NA,WA,GA,NA,NA,Center Mid Attack,Attacking Middle,NA,NA
+Home Gains,Q3,696,NA,NA,NA,NA,Defensive Left Pocket,Bad Pass,NA,NA,NA,NA
+Home CPA,Q3,712,Home Goal,NA,GA,GS,NA,NA,Center Right Defense,Attacking Middle,NA,NA
+Home CPA,Q3,719,Home Goal,NA,GA,GS,NA,NA,Center Right Defense,Attacking Left,NA,NA
+Home Gains,Q3,741,NA,NA,NA,NA,Defensive D,Contact,NA,NA,NA,NA
+Home Shot,Q3,747,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q3,755,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q3,781,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Gains,Q3,793,NA,NA,NA,NA,Defensive Right,Held Ball,NA,NA,NA,NA
+Away Shot,Q3,831,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home DCPA,Q3,838,No Shot,NA,WA,GS,NA,NA,Center Left Defense,Attacking Left,NA,NA
+Home Gains,Q3,838,NA,NA,NA,NA,Defensive Right Pocket,Intercept,NA,NA,NA,NA
+Home CPA,Q4,48,No Shot,NA,WA,GS,NA,NA,Center Left Attack,Attacking D,NA,NA
+Home Gains,Q4,48,NA,NA,NA,NA,Center Left Defense,Step,NA,NA,NA,NA
+Home DCPA,Q4,84,Home Goal,NA,WD,GS,NA,NA,Center Left Defense,Attacking Left,NA,NA
+Home Shot,Q4,85,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Turnovers,Q4,105,NA,NA,NA,NA,Defensive Left Pocket,Intercept,NA,NA,NA,NA
+Home Turnovers,Q4,112,NA,NA,NA,NA,Center Left Defense,Held Ball,NA,NA,NA,NA
+Home Shot,Q4,141,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q4,141,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Away Shot,Q4,165,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q4,209,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q4,291,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home CPA,Q4,299,Home Goal,NA,WD,WA,NA,NA,Center Right Defense,Attacking Right Pocket,NA,NA
+Home DCPA,Q4,303,Home Goal,NA,WA,GS,NA,NA,Center Left Attack,Attacking Right,NA,NA
+Home CPA,Q4,311,Home Goal,NA,GA,GA,NA,NA,Center Right Attack,Attacking Middle,NA,NA
+Home Turnovers,Q4,315,NA,NA,NA,NA,Defensive D,Held Ball,NA,NA,NA,NA
+Home CPA,Q4,331,Home Goal,NA,WA,GA,NA,NA,Center Right Attack,Attacking Right,NA,NA
+Home CPA,Q4,378,Home Goal,NA,GD,GA,NA,NA,Center Left Attack,Attacking Middle,NA,NA
+Home DCPA,Q4,402,Home Goal,NA,GD,GA,NA,NA,Center Right Defense,Attacking Right,NA,NA
+Away Shot,Q4,421,Away Miss,Player A,NA,NA,NA,NA,NA,NA,GS,Circle Edge
+Home Shot,Q4,431,Home Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Gains,Q4,456,NA,NA,NA,NA,Defensive Left Pocket,Intercept,NA,NA,NA,NA
+Home DCPA,Q4,464,Home Goal,NA,WA,WA,NA,NA,Center Right Attack,Attacking Right,NA,NA
+Home Turnovers,Q4,468,NA,NA,NA,NA,Center Left Defense,Intercept,NA,NA,NA,NA
+Home Gains,Q4,471,NA,NA,NA,NA,Defensive Right,Step,NA,NA,NA,NA
+Home Gains,Q4,482,NA,NA,NA,NA,Center Left Defense,Contact,NA,NA,NA,NA
+Home Shot,Q4,516,Home Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Away Shot,Q4,516,Away Goal,Player A,NA,NA,NA,NA,NA,NA,GS,Inner Circle
+Home Shot,Q4,537,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Away Shot,Q4,537,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home DCPA,Q4,549,Home Goal,NA,WA,WA,NA,NA,Center Right Attack,Attacking Left Pocket,NA,NA
+Away Shot,Q4,557,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Inner Circle
+Home CPA,Q4,566,Home Goal,NA,GA,WA,NA,NA,Center Mid Defense,Attacking Right,NA,NA
+Home Gains,Q4,591,NA,NA,NA,NA,Defensive Left Pocket,Intercept,NA,NA,NA,NA
+Home Turnovers,Q4,631,NA,NA,NA,NA,Defensive Left Pocket,Held Ball,NA,NA,NA,NA
+Home CPA,Q4,670,Home Goal,NA,GA,WA,NA,NA,Center Right Attack,Attacking Left,NA,NA
+Home DCPA,Q4,671,Home Goal,NA,WA,GA,NA,NA,Center Left Defense,Attacking Middle,NA,NA
+Home CPA,Q4,703,Home Miss,NA,GD,GS,NA,NA,Center Right Attack,Attacking Right Pocket,NA,NA
+Home Shot,Q4,711,Home Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Outer Circle
+Home Shot,Q4,774,Home Miss,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home DCPA,Q4,846,Home Goal,NA,WD,GA,NA,NA,Center Mid Attack,Attacking Left,NA,NA
+Away Shot,Q4,861,Away Goal,Player B,NA,NA,NA,NA,NA,NA,GA,Circle Edge
+Home CPA,Q4,879,Home Goal,NA,WD,WA,NA,NA,Center Right Attack,Attacking D,NA,NA
