@@ -113,7 +113,7 @@ def draw_court_heatmap(data, map_df, title, val_col="Count", label_col="Label", 
 st.sidebar.title("Configuration")
 uploaded_file = st.sidebar.file_uploader("Upload Match CSV", type="csv")
 if not uploaded_file:
-    st.info("Upload 'mock_netball_data.csv' to begin.")
+    st.info("Upload 'mock_netball_data_streamlit.csv' to begin.")
     st.stop()
 
 df = load_data(uploaded_file)
