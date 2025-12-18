@@ -17,6 +17,14 @@ The dashboards are designed for coaches and performance staff who need quick, re
 
 I originally built this dashboard in R/Shiny and then rebuilt it in Python/Streamlit as a learning exercise. Doing the same project twice helped me deepen my Python skills and directly compare how each stack feels for day‑to‑day performance analysis work.
 
+## 🔗 Live Demos
+Experience the dashboard in your preferred environment:
+
+| Version | Tech Stack | Status | Access Link |
+| :--- | :--- | :--- | :--- |
+| **Interactive Web App** | 🐍 Python Streamlit | 🟢 Online | [**🚀 Launch Streamlit Dashboard**](https://ibrahim-nasaruddin-netball-performanc-streamlitdashboard-xbjd1q.streamlit.app/) |
+| **Statistical Suite** | 📊 R Shiny | 🟢 Online | [**🚀 Launch R Shiny Dashboard**](https://8k17oa-ibrahim0bin0nasaruddin.shinyapps.io/Netball-Performance-Dashboard/) |
+
 ## 📂 Repository Structure
 To keep the environments clean, the project is divided into two distinct sub-directories:
 
